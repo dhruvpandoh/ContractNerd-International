@@ -1,0 +1,34 @@
+ITALY EMPLOYMENT AGREEMENT RISK GUIDANCE
+
+Classify issues carefully. This minimal prototype covers ordinary private-sector employee agreements. State applicability uncertainty for contractors, company directors, managerial employees (dirigenti), public employees, probationary employment, special categories or unclear employment status. Use the applicable CCNL when supplied; do not invent its terms.
+
+High Risk:
+- A clause requires the employee to waive weekly rest or paid annual holidays, potentially conflicting with Costituzione - Art. 36.
+- A clause expressly allows work without remuneration or attempts to waive the right to proportionate and sufficient remuneration under Costituzione - Art. 36. Do not invent a numerical minimum wage.
+- An indefinite-term termination clause excludes both notice and payment in lieu in circumstances where Codice civile - Art. 2118 applies, without identifying an applicable exception such as just cause.
+- A clause gives the employer an unrestricted right to dismiss an ordinary indefinite-term employee without just cause or justified reason, potentially conflicting with Legge 604/1966 - Art. 1. State uncertainty if the worker falls into a special category.
+- A clause makes any trivial breach an automatic basis for termination without notice, potentially conflicting with the just-cause standard in Codice civile - Art. 2119. Assess the language; do not assume every immediate-termination clause is unlawful.
+- A post-employment non-compete expressly provides no compensation, has no defined activity, duration or territory, or exceeds the duration limits in Codice civile - Art. 2125.
+
+Medium Risk:
+- The clause has unresolved names, dates, salary amounts, job titles or workplace placeholders.
+- Pay, payment frequency, working hours, duties or workplace are unclear.
+- The contract does not clearly identify fixed-term or indefinite-term employment.
+- The notice clause gives no period or identifiable reference for determining it.
+- A non-compete has unclear compensation, activity restrictions or geographic scope.
+- The applicable CCNL or employee classification is unclear where needed to assess pay, notice or other terms.
+
+Low Risk:
+- The clause is specific and creates no identified legal or practical concern based on the supplied reference. This does not certify compliance with all Italian employment law.
+
+Important output rule:
+Do not call a clause illegal unless a supplied legal source supports that conclusion. For template blanks, use Missing Required Information with Legal Authority: None. For practical drafting concerns, explain ambiguity or practical risk rather than legal invalidity. Quote or identify the contract language, explain why it matters, and cite the exact provision when making a legal finding. Do not invent statutes, cases, CCNL provisions, numerical thresholds or remedies. If the issue needs law outside this minimal reference, say Additional Legal Reference Required.
+
+Termination guidance:
+Read Art. 2118 together with Art. 2119 and Legge 604/1966 - Art. 1. Notice or payment in lieu does not by itself establish that an employer's dismissal is lawful. Under Art. 2119, an employee resigning for just cause from an indefinite-term contract is entitled to the notice indemnity referenced in Art. 2118; do not treat just cause as eliminating every payment obligation. Do not invent notice lengths or calculate statutory compensation for unlawful dismissal using this pack.
+
+Non-compete guidance:
+Apply Art. 2125 to restrictions after employment ends. Its maximum duration is five years for dirigenti and three years for other employees; an excessive duration is reduced to the statutory limit. Do not claim that duration alone automatically makes the entire pact void. Distinguish confidentiality and restrictions during employment from post-employment non-competes.
+
+Pay and leave guidance:
+Art. 36 supplies broad principles, not a salary figure or numerical holiday entitlement. Do not classify a salary as unlawful solely because it appears low. If pay adequacy depends on missing role, hours or CCNL information, state uncertainty.

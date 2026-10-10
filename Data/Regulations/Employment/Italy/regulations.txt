@@ -1,0 +1,49 @@
+ITALY EMPLOYMENT AGREEMENT - SELECTED LEGAL TEXT
+
+Minimal prototype reference for ordinary private-sector employee agreements. Selected provisions only. Applicability may depend on employment status, contract type and the applicable collective agreement (CCNL). The scope note is editorial; the provisions below are Italian statutory text, with layout normalized.
+
+COSTITUZIONE DELLA REPUBBLICA ITALIANA
+Art. 36
+Fonte ufficiale: https://www.senato.it/node/133/printable/print
+
+Il lavoratore ha diritto ad una retribuzione proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa.
+
+La durata massima della giornata lavorativa è stabilita dalla legge.
+
+Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi.
+
+CODICE CIVILE - REGIO DECRETO 16 marzo 1942, n. 262
+Art. 2118
+Fonte ufficiale: https://www.gazzettaufficiale.it/eli/gu/2011/10/10/236/sg/pdf
+(Recesso dal contratto a tempo indeterminato).
+
+Ciascuno dei contraenti può recedere dal contratto di lavoro a tempo indeterminato, dando il preavviso nel termine e nei modi stabiliti dagli usi o secondo equità.
+
+In mancanza di preavviso, il recedente è tenuto verso l'altra parte a un'indennità equivalente all'importo della retribuzione che sarebbe spettata per il periodo di preavviso.
+
+La stessa indennità è dovuta dal datore di lavoro nel caso di cessazione del rapporto per morte del prestatore di lavoro.
+
+Art. 2119
+Fonte ufficiale: https://www.gazzettaufficiale.it/eli/gu/2019/02/14/38/so/6/sg/pdf
+(Recesso per giusta causa).
+
+Ciascuno dei contraenti può recedere dal contratto prima della scadenza del termine, se il contratto è a tempo determinato, o senza preavviso, se il contratto è a tempo indeterminato, qualora si verifichi una causa che non consenta la prosecuzione anche provvisoria, del rapporto.
+
+Se il contratto è a tempo indeterminato, al prestatore di lavoro che recede per giusta causa compete l'indennità indicata nel secondo comma dell'articolo precedente.
+
+Non costituisce giusta causa di risoluzione del contratto la liquidazione coatta amministrativa dell'impresa. Gli effetti della liquidazione giudiziale sui rapporti di lavoro sono regolati dal codice della crisi e dell'insolvenza.
+
+Art. 2125
+Fonte ufficiale: https://def.giustiziatributaria.gov.it/DocTribFrontend/executePrintArticolo.do?FROM_SEARCH=true&codiceOrdinamento=0000000000021250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B8BA24F4F-65BA-4E58-AF6E-41C037180D43%7D&idAttoNormativo=%7B9E93F1BE-06AE-4F24-8E9D-B838F7E0C2E6%7D&numeroArticolo=Articolo+2125
+(Patto di non concorrenza).
+
+Il patto con il quale si limita lo svolgimento dell'attivita' del prestatore di lavoro, per il tempo successivo alla cessazione del contratto, e' nullo se non risulta da atto scritto, se non e' pattuito un corrispettivo a favore del prestatore di lavoro e se il vincolo non e' contenuto entro determinati limiti di oggetto, di tempo e di luogo.
+
+La durata del vincolo non puo' essere superiore a cinque anni, se si tratta di dirigenti, e a tre anni negli altri casi. Se e' pattuita una durata maggiore, essa si riduce nella misura suindicata.
+
+LEGGE 15 luglio 1966, n. 604
+Norme sui licenziamenti individuali
+Art. 1
+Fonte ufficiale: https://www.normattiva.it/eli/id/1966/08/06/066U0604/CONSOLIDATED/20250724
+
+Nel rapporto di lavoro a tempo indeterminato, intercedente con datori di lavoro privati o con enti pubblici, ove la stabilità non sia assicurata da norme di legge, di regolamento e di contratto collettivo o individuale, il licenziamento del prestatore di lavoro non può avvenire che per giusta causa ai sensi dell'articolo 2119 del Codice civile o per giustificato motivo.
