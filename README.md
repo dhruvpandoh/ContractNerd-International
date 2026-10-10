@@ -2,7 +2,7 @@
 
 ContractNerd International is an academic contract-analysis prototype that uses large language models to review contracts across jurisdictions. The system helps identify clauses that may be incomplete, ambiguous, prejudicial, potentially unenforceable, or in need of further legal review.
 
-The application currently supports contract analysis across multiple jurisdictions, including China-based jurisdictions, India - Delhi, and England and Wales.
+The application currently supports contract analysis across multiple jurisdictions, including China-based jurisdictions, India - Delhi, England and Wales, and the U.S. jurisdictions New York and Chicago.
 
 ## Overview
 
@@ -22,7 +22,10 @@ The current interface includes the following jurisdiction options:
 - India - Delhi
 - England and Wales
 
-Chinese jurisdictions can preserve Chinese-style output labels and analysis behavior, while India - Delhi and England and Wales use English output.
+- New York
+- Chicago
+
+Chinese jurisdictions can preserve Chinese-style output labels and analysis behavior, while India - Delhi, England and Wales, New York, and Chicago use English output.
 
 ## Supported Contract Types
 
@@ -31,7 +34,7 @@ The current interface includes the following contract types:
 - Rental
 - Employment
 
-Rental agreement analysis is currently implemented for India - Delhi and England and Wales. Employment analysis depends on whether jurisdiction-specific data files are available for the selected jurisdiction.
+Rental agreement analysis is currently implemented for India - Delhi, England and Wales, New York, and Chicago. Employment analysis depends on whether jurisdiction-specific data files are available for the selected jurisdiction.
 
 ## Features
 
@@ -206,6 +209,15 @@ The England and Wales rental workflow focuses on residential tenancy agreements.
 - Consumer Rights Act 2015
 
 The workflow is designed to flag issues such as missing tenancy-deposit protection language, prohibited or excessive fees, improper transfer of statutory repair obligations, habitability exclusions, unlawful eviction or self-help remedies, and unfair consumer terms.
+
+### New York and Chicago
+
+The New York and Chicago data was merged from the OG U.S. ContractNerd repository (MusondaSinkala/ContractNerd).
+
+- Rental: regulations for New York and Chicago and risky-clause guidance for New York.
+- Employment: regulations for New York (NYC Workers Bill of Rights) and Chicago (Chicago wage and labor rules), converted from the original PDFs to text.
+
+Known gaps: Chicago has no rental risky-clause file, neither city has employment risky-clause files, and neither city has gold standard files yet. The analysis still runs without these files, with less guidance for risk classification.
 
 ## Setup
 

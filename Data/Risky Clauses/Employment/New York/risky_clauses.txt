@@ -1,0 +1,41 @@
+NEW YORK CITY EMPLOYMENT AGREEMENT RISK GUIDANCE
+
+Classify issues carefully.
+
+High Risk:
+- A clause pays less than the New York City minimum wage of $17.00 per hour on and after January 1, 2026, required by New York Labor Law Section 652(1-a)(a).
+- A clause pays a tipped food service worker a cash wage below two-thirds of the minimum wage, rounded to the nearest five cents, or seven dollars and fifty cents, whichever is higher, in violation of New York Labor Law Section 652(4).
+- A clause pays a manual worker less often than weekly, or pays a clerical or other worker less often than semi-monthly, or requires the employee to accept wages at other periods, in violation of New York Labor Law Section 191.
+- A clause delays final wages after termination beyond the regular pay day for the pay period in which the termination occurred, in violation of New York Labor Law Section 191(3).
+- A clause allows deductions or charges against wages that are not made under law or not expressly authorized in writing by the employee for the employee's benefit, such as deductions for damage, losses, or shortages, in violation of New York Labor Law Section 193.
+- A clause allows the employer to discharge, threaten, penalize, or retaliate against an employee for making a complaint, exercising rights, or using a legally protected absence, in violation of New York Labor Law Section 215.
+- A clause denies paid safe/sick time where the employer has 5 or more employees, employs 1 or more domestic workers, or has 4 or fewer employees and net income of 1 million dollars or more in the previous tax year, in violation of NYC Administrative Code Section 20-913(a)(1).
+- A clause pays safe/sick time below the employee's regular rate of pay or applies a tip credit or tip allowance to it, in violation of NYC Administrative Code Section 20-913(a)(1).
+- A clause provides accrual slower than 1 hour of safe/sick time for every 30 hours worked, in violation of NYC Administrative Code Section 20-913(b).
+- A clause does not provide a minimum of 32 hours of unpaid safe/sick time immediately available upon hire and on the first day of each calendar year, in violation of NYC Administrative Code Section 20-913(k).
+- A clause does not provide 20 hours of paid prenatal leave during any 52-week calendar period, in violation of NYC Administrative Code Section 20-913(l).
+- A clause sets a minimum use increment above 4 hours per day for safe/sick time or above one hour per day for paid prenatal leave, in violation of NYC Administrative Code Section 20-913(g).
+- A clause allows carryover of less than 40 hours of unused accrued safe/sick time for employers with 99 or fewer employees, or less than 56 hours for employers with 100 or more employees, unless unused time is paid out and the full amount is provided on the first day of the next calendar year, in conflict with NYC Administrative Code Section 20-913(h).
+- A clause requires documentation for an absence of 3 or fewer consecutive work days, or requires documentation to specify the nature of the illness, injury, or condition, in violation of NYC Administrative Code Section 20-914(a)(2).
+- A clause requires disclosure of details of the underlying reason for using safe/sick time, in violation of NYC Administrative Code Section 20-921.
+- A clause requires the employee to find a replacement worker or to work additional hours to make up for safe/sick time, in violation of NYC Administrative Code Sections 20-914(e) and 20-915(b).
+- A clause applies an absence control policy that counts safe/sick time as an absence that may lead to an adverse action, in violation of NYC Administrative Code Section 20-918(c).
+
+Medium Risk:
+- A clause requires more than 7 days' advance notice before using foreseeable safe/sick time, in conflict with NYC Administrative Code Section 20-914(c).
+- The agreement does not provide the written notice at hiring of the rate and basis of pay, allowances, regular pay day, and employer information required by New York Labor Law Section 195(1).
+- A clause allows changes to pay information without written notice at least seven calendar days in advance, unless reflected on the wage statement, in conflict with New York Labor Law Section 195(2).
+- The agreement does not provide a wage statement with every payment of wages, as required by New York Labor Law Section 195(3).
+- The safe/sick time accrued, used, and available is not noted on a pay statement or other written documentation each pay period, as required by NYC Administrative Code Section 20-919(c).
+- The employer's policy on sick leave, vacation, personal leave, holidays, and hours is not provided in writing or publicly posted, as required by New York Labor Law Section 195(5).
+- The agreement does not provide written notice of the exact termination date and the exact date of cancellation of employee benefits, as required by New York Labor Law Section 195(6).
+- A commission salesperson's agreed terms of employment are not in a writing signed by both the employer and the commission salesperson, as required by New York Labor Law Section 191(1)(c).
+
+Low Risk:
+- The clause is standard, specific, and does not create a legal or practical concern based on the provided legal reference.
+- A clause allows disciplinary action against an employee who uses safe/sick time for purposes other than those allowed, which is permitted under NYC Administrative Code Section 20-914(f).
+
+Applicability notes:
+- The Earned Safe and Sick Time Act does not apply to independent contractors who do not meet the definition of employee under New York Labor Law Section 190(2), or to hourly professional employees, under NYC Administrative Code Section 20-913(f).
+- New York Labor Law Section 193 contains two versions; use the version marked effective until November 6, 2028.
+- Beginning January 1, 2027, the New York City minimum wage is an adjusted rate published by the commissioner no later than October 1 of each year under New York Labor Law Section 652(1-b). It is not stated in this reference. Do not state a specific dollar amount for 2027 or later.

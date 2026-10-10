@@ -1,0 +1,37 @@
+CHICAGO EMPLOYMENT AGREEMENT RISK GUIDANCE
+
+Classify issues carefully.
+
+High Risk:
+- A clause pays a Covered Employee less than the minimum wage required by Chicago Municipal Code 6-105-020, or states that the employee agrees to work for less. Under Chicago Municipal Code 6-105-110, such an agreement is no defense.
+- A clause pays wages in scrip, time checks, store orders, or any other acknowledgement of indebtedness that is not payable on demand, without discount, and for face value in lawful money, in violation of Chicago Municipal Code 6-105-015.
+- A clause takes a tip credit greater than the percentage allowed by Chicago Municipal Code 6-105-030(a), which is 24 percent of the applicable minimum wage from July 1, 2025 through June 30, 2028.
+- A clause denies overtime compensation required by the Minimum Wage Law, which applies under Chicago Municipal Code 6-105-040.
+- A clause allows the employer to discriminate or take adverse action against an individual for exercising rights, including reporting or testifying about violations, in violation of Chicago Municipal Code 6-100-030.
+- A clause allows wages or required paid time off to go unpaid or be paid late, which is wage theft under Chicago Municipal Code 6-100-050.
+- A clause provides for forfeiture of earned Paid Leave upon separation from employment, in violation of Chicago Municipal Code 6-130-020(a)(4). Small Employers (50 or fewer Covered Employees) are not required to pay out unused Paid Leave.
+- A clause pays Paid Leave or Paid Sick Leave at a lower rate or without the same benefits the employee regularly earns, in violation of Chicago Municipal Code 6-130-020(a)(2).
+- A clause provides accrual slower than one hour of Paid Leave and one hour of Paid Sick Leave for every 35 hours worked, or caps accrual below 40 hours of each per 12-month period, in violation of Chicago Municipal Code 6-130-030(b).
+- A clause prevents use of accrued Paid Sick Leave by the 30th calendar day of employment or accrued Paid Leave by the 90th calendar day, in violation of Chicago Municipal Code 6-130-030(d).
+- A clause sets a minimum usage increment above four hours of Paid Leave or two hours of Paid Sick Leave per day, in violation of Chicago Municipal Code 6-130-030(e).
+- A clause allows carryover of less than 16 hours of Paid Leave or 80 hours of Paid Sick Leave between 12-month periods, unless leave is front-loaded, in conflict with Chicago Municipal Code 6-130-030(c) and (f).
+- A clause requires a reason, documentation, or certification for using Paid Leave, in violation of Chicago Municipal Code 6-130-030(h).
+- A clause requires documentation for Paid Sick Leave before the employee will be absent for a third consecutive day, in violation of Chicago Municipal Code 6-130-030(i)(3).
+- A clause requires the employee to find a replacement worker as a condition of taking Paid Sick Leave or Paid Leave, in violation of Chicago Municipal Code 6-130-020(c).
+- A clause counts paid time off as an absence that triggers discipline, discharge, demotion, suspension, or other adverse action, in violation of Chicago Municipal Code 6-130-020(a)(6).
+- A clause waives rights under the Chicago Paid Leave and Paid Sick and Safe Leave Ordinance outside a collective bargaining agreement, which is void under Chicago Municipal Code 6-130-040(b).
+
+Medium Risk:
+- A clause requires more than seven days' notice before using Paid Leave or foreseeable Paid Sick Leave, in conflict with Chicago Municipal Code 6-130-030(h)(1) and (i)(2).
+- An unlimited paid time off clause requires preapproval before using paid time off, in conflict with Chicago Municipal Code 6-130-030(g).
+- The agreement or policy does not include a written explanation of the Paid Leave and Paid Sick Leave accrual rate, as required by Chicago Municipal Code 6-130-030(b)(1).
+- The employer does not provide its employment policies to workers or does not give 14 days' notice of changes, as required by Chicago Municipal Code 6-100-040(b).
+
+Low Risk:
+- The clause is standard, specific, and does not create a legal or practical concern based on the provided legal reference.
+- A clause allows discipline for using Paid Sick Leave for purposes other than those allowed, which is permitted under Chicago Municipal Code 6-130-030(i)(4).
+
+Applicability notes:
+- For minimum wage, except for Domestic Workers, Covered Employee does not include individuals working for an Employer with fewer than four Employees, under Chicago Municipal Code 6-105-010.
+- For paid leave, Covered Employee means an Employee who works at least 80 hours for an Employer within any 120-day period while physically present in the City, under Chicago Municipal Code 6-130-010.
+- The current City minimum wage amount is adjusted each July 1 and announced by bulletin under Chicago Municipal Code 6-105-020; it is not stated in this reference. Do not state a specific current dollar amount.

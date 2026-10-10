@@ -1,0 +1,38 @@
+CHICAGO RESIDENTIAL LEASE RISK GUIDANCE
+
+Classify issues carefully.
+
+High Risk:
+- A clause makes the tenant waive or give up rights or remedies under the ordinance, in violation of Chicago Municipal Code 5-12-140(a).
+- A clause authorizes any person to confess judgment on a claim arising out of the rental agreement, in violation of Chicago Municipal Code 5-12-140(b).
+- A clause limits the landlord's liability arising under law, in violation of Chicago Municipal Code 5-12-140(c).
+- A clause waives any written termination of tenancy notice or manner of service, in violation of Chicago Municipal Code 5-12-140(d).
+- A clause waives the right to a trial by jury, in violation of Chicago Municipal Code 5-12-140(e).
+- A clause requires the tenant to pay the landlord's attorney's fees in a lawsuit arising out of the tenancy, unless limited to fees provided for by court rules, statute, or ordinance, under Chicago Municipal Code 5-12-140(f).
+- A late fee exceeds $10.00 per month for the first $500.00 in monthly rent plus five percent per month for any amount over $500.00, in violation of Chicago Municipal Code 5-12-140(h).
+- An early-payment discount exceeds $10.00 per month for the first $500.00 in monthly rent plus five percent per month for any amount over $500.00, in violation of Chicago Municipal Code 5-12-140(i).
+- A clause allows the landlord to remove the tenant without authority of law by changing or removing locks, blocking entrances, removing doors or windows, interrupting utilities or services, or removing the tenant's personal property, in violation of Chicago Municipal Code 5-12-160.
+- A clause allows the landlord to terminate the tenancy, increase rent, decrease services, sue for possession, or refuse to renew because the tenant complained of code violations, requested repairs, joined a tenant's union, or exercised a legal right, in violation of Chicago Municipal Code 5-12-150.
+- A clause shifts the landlord's duty to maintain the premises in compliance with the municipal code and make necessary repairs onto the tenant, in conflict with Chicago Municipal Code 5-12-070.
+- A clause allows the landlord to enter without at least two days' notice, other than for practical necessity or emergency, in conflict with Chicago Municipal Code 5-12-050.
+- A security deposit clause does not require holding the deposit in a federally insured interest-bearing account at an Illinois financial institution, or allows commingling with the landlord's assets, in conflict with Chicago Municipal Code 5-12-080(a)(1).
+- A clause denies interest on a security deposit held for more than six months, in conflict with Chicago Municipal Code 5-12-080(c).
+- A clause allows the security deposit to be returned later than 45 days after the tenant vacates, or allows deductions beyond unpaid rent and reasonable repair of tenant-caused damage excluding reasonable wear and tear, in conflict with Chicago Municipal Code 5-12-080(d).
+- A clause allows the landlord to terminate for unpaid rent without written notice and five days to pay, in conflict with Chicago Municipal Code 5-12-130(a).
+- A clause prohibits a reasonable sublease proposed by the tenant or charges additional fees for it, in conflict with Chicago Municipal Code 5-12-120.
+
+Medium Risk:
+- The lease does not disclose the name and address of the financial institution where the security deposit will be held, as required by Chicago Municipal Code 5-12-080(a)(3).
+- A clause lets one party cancel or terminate at a different time or within a shorter period than the other, unless disclosed in a separate written notice, under Chicago Municipal Code 5-12-140(g).
+- A clause requires the tenant to renew more than 90 days before the termination date, in conflict with Chicago Municipal Code 5-12-130(i).
+- A clause makes a tenant who leaves early liable for remaining rent without the landlord making a good faith effort to re-rent, in conflict with Chicago Municipal Code 5-12-120.
+- A clause allows the landlord to dispose of the tenant's abandoned property immediately rather than after seven days, unless the property is valueless or subject to spoilage, in conflict with Chicago Municipal Code 5-12-130(f).
+- The lease does not disclose the name, address, and telephone number of the owner or person authorized to manage the premises, as required by Chicago Municipal Code 5-12-090.
+- The Chicago Residential Landlord and Tenant Ordinance summary is not attached to the written rental agreement, as required by Chicago Municipal Code 5-12-170.
+
+Low Risk:
+- The clause is standard, specific, and does not create a legal or practical concern based on the provided legal reference.
+- A clause states standard tenant duties, such as complying with municipal code obligations for tenants, disposing of waste safely, and not damaging the premises, consistent with Chicago Municipal Code 5-12-040.
+
+Applicability note:
+- If the lease indicates owner-occupied premises containing six units or fewer, say the ordinance may not apply, except that Chicago Municipal Code 5-12-130(j) and 5-12-160 still apply, under Chicago Municipal Code 5-12-020(a).

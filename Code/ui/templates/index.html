@@ -649,6 +649,8 @@
                     <option value="Hefei (合肥)">Hefei (合肥)</option>
                     <option value="India - Delhi">India - Delhi</option>
                     <option value="England and Wales">England and Wales</option>
+                    <option value="New York">New York</option>
+                    <option value="Chicago">Chicago</option>
                 </select>
 
                 <label for="contractType">Contract Type :</label>
@@ -801,7 +803,8 @@
 
             let resultHTML = '';
 
-            const isChineseJurisdiction = data.metadata && data.metadata.jurisdiction !== "India - Delhi" && data.metadata.jurisdiction !== "England and Wales";
+            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "Chicago"];
+            const isChineseJurisdiction = data.metadata && !englishJurisdictions.includes(data.metadata.jurisdiction);
 
             const labels = isChineseJurisdiction ? {
                 totalClauses: "条款总数",
