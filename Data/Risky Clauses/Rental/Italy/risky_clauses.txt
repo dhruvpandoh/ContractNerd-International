@@ -1,0 +1,41 @@
+ITALY RESIDENTIAL LEASE RISK GUIDANCE
+
+Classify issues carefully. Use the supplied Italy rental regulations as a selected prototype reference. Check lease type, property category and landlord status before applying a rule. Legge 431/1998 - Art. 1 contains exclusions, including exclusively tourist accommodation, public housing and certain protected or cadastral-category properties. Do not assume Consumer Code protection applies to every private landlord.
+
+High Risk:
+- A clause requires extra or hidden rent above the written and registered amount, potentially conflicting with Legge 431/1998 - Art. 13(1).
+- A clause expressly excludes registration where registration is required, potentially conflicting with Legge 431/1998 - Art. 13(1) and Legge 311/2004 - Art. 1, comma 346. Missing mention of registration alone does not prove non-registration.
+- A lease subject to Legge 431/1998 bypasses the applicable minimum duration or statutory renewal rules: check Arts. 2, 5 and 13(3), and AGGIORNAMENTO (16). A short duration alone is not enough if a valid temporary, student or excluded lease category may apply.
+- A clause permits the landlord to refuse the first renewal without an Art. 3(1) ground or the required six-month notice, where Legge 431/1998 applies.
+- A clause excludes the tenant's right to withdraw for serious reasons under Legge 431/1998 - Art. 3(6). Do not flag more favourable tenant withdrawal rights merely because they allow shorter notice.
+- A security deposit exceeds three months' rent or expressly excludes legal interest payable annually, where Legge 392/1978 - Art. 11 applies.
+- A clause excludes landlord liability for deliberately concealed defects or defects preventing use, or requires the tenant to waive termination for serious health hazards: Codice civile - Arts. 1579 and 1580.
+- Where the landlord acts as a professional and the tenant as a consumer, a clause imposes manifestly excessive penalties, unjustified unilateral changes or serious restrictions on remedies, potentially conflicting with Codice del consumo - Arts. 33-36.
+
+Medium Risk:
+- The clause has unresolved names, dates, rent, deposit, property address or lease-duration placeholders.
+- Rent, payment dates, utilities or other financial obligations are unclear.
+- The lease category or basis for a temporary/student arrangement is unclear.
+- The security deposit clause lacks return timing, itemized deductions or evidence requirements.
+- A repair clause shifts all repairs to the tenant or does not distinguish minor maintenance, major repairs, tenant-caused damage, ordinary wear and age-related deterioration: review Codice civile - Arts. 1576, 1590 and 1609. Do not automatically describe every contractual allocation as void.
+- The landlord access clause lacks notice, purpose or reasonable limits; treat this as practical risk unless a supplied legal provision supports a legal finding.
+- Termination or renewal terms omit grounds, notice method or consequences.
+- A clause allows lockout, utility shutoff or seizure of belongings as a private remedy. Flag for legal review; the supplied reference does not contain a complete eviction-procedure rule.
+
+Low Risk:
+- The clause is standard, specific and creates no identified legal or practical concern based on the supplied reference. This does not certify compliance with all Italian law.
+
+Important output rule:
+Do not call a clause illegal unless a cited source supports that conclusion. Quote or identify the contract language, explain the risk and cite the exact law and article for legal findings. For template blanks, use Missing Required Information with Legal Authority: None. For practical drafting concerns, explain ambiguity or practical risk rather than legal invalidity. State applicability uncertainty when facts are missing. Do not invent laws, cases, procedures, deadlines or local-agreement terms. If the issue needs a provision not supplied, say Additional Legal Reference Required.
+
+Duration and renewal guidance:
+Distinguish ordinary 4+4 leases, agreed-rent 3+2 leases and temporary/student exceptions. Under the supplied AGGIORNAMENTO (16), the silent renewal described in Art. 2(5) is for a further two years at each relevant expiry. Do not apply first-renewal refusal grounds indiscriminately to every later expiry. Do not invent the detailed temporary/student requirements absent from the reference.
+
+Rent and deposit guidance:
+For agreed-rent leases, Art. 13(4) requires comparison with the relevant local agreement; without that agreement, state uncertainty rather than inventing a rent cap. Distinguish a security deposit from advance rent or a separate guarantee. Deposit deduction for ordinary wear or age-related deterioration should be reviewed against Art. 1590; lack of a return deadline is a drafting concern, not proof of statutory invalidity.
+
+Consumer clause guidance:
+Apply Arts. 33-36 only where professional-consumer status is established or explicitly state uncertainty. Consider Art. 34's context and individual-negotiation rules, Art. 35's clarity requirement, and Art. 36's exceptions for certain clauses even if negotiated. A potentially unfair term does not automatically invalidate the entire lease. A term choosing a court away from the consumer's residence or elected domicile may be presumed unfair under Art. 33(2)(u), but first check professional-consumer status and the Art. 34 context. Do not assess clearly expressed rent adequacy under the general unfair-term test alone.
+
+Holdover guidance:
+Codice civile - Art. 1591 provides for the agreed payment until return and possible further damages. Do not automatically cap all compensation at ordinary rent. Treat an additional penalty as requiring review; use Art. 33(2)(f) only where Consumer Code applicability is established or uncertain as stated.
